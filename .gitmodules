@@ -1,0 +1,3 @@
+[submodule "subs/orion-test-submodule-child4"]
+	path = subs/orion-test-submodule-child4
+	url = ../orion-test-submodule-child4.git
