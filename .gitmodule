@@ -1,4 +1,0 @@
-[submodule "submodule/orion-test-submodule-child4"]
-	path = submodule/orion-test-submodule-child4
-	url = ../orion-test-submodule-child4.git
-	branch = master
